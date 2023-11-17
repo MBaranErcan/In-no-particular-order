@@ -3,7 +3,6 @@ module and_gate_example (
     input b,
     output y
     );
-);
 
 input a;
 input b;
