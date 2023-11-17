@@ -1,4 +1,4 @@
-module and_gate (
+module and_gate_example (
     input a,
     input b,
     output y
