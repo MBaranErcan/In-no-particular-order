@@ -14,4 +14,4 @@ assign and_temp = a & b;
 
 assign y = and_temp;
     
-endmodule  // Example And Gate
+endmodule  // And Gate Example
