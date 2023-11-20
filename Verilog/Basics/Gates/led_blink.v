@@ -1,3 +1,5 @@
+// Inspired from: read://https_nandland.com/?url=https%3A%2F%2Fnandland.com%2Fyour-first-verilog-program-an-led-blinker%2F
+
 module led_blink (
     i_clock,
     i_enable,
