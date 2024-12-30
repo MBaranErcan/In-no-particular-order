@@ -1,4 +1,4 @@
-// Example compile:     gcc -o main 28810555206_hw2.c -pthread
+// Example compile:     gcc -o main isPrime.c -pthread
 // Example run:         time ./main myDir 4
 
 #include <stdio.h>
