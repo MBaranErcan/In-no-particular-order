@@ -1,8 +1,7 @@
 >M. Baran Ercan & Bedir Esen
 
-### SUMMARY
-![image](https://github.com/user-attachments/assets/bd98ceeb-bc74-4797-9291-6002269d6b00)
-
+### Introduction
+A parallelized image edge detection filter utilizing MPI for distributed computation. By analyzing speedup and efficiency across varying thread counts and image sizes, study highlights the performance trade-offs and bottlenecks associated with MPI_Bcast communication.
 
 
 ### Filter That We Use
@@ -120,3 +119,5 @@ faster. The efficiency in the greater size decreases but when concerning the spe
 We think that the main reason of unbalanced situation in the speedup in the smaller sizes is nature of the
 MPI_Bcast method. Master sends so that shares the data to slave processes. This time-consuming
 situation creates an unbalanced situation in small data sizes.
+
+![image](https://github.com/user-attachments/assets/bd98ceeb-bc74-4797-9291-6002269d6b00)
