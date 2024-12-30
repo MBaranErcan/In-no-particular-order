@@ -1,7 +1,6 @@
-## CMPE 472_SEC 3 Computer Networks
-
+# Python Socket-Based Stock Market Prediction Game
 Name: Mustafa Baran Ercan
-No: 2881055520
+
 Date of Submission: 03 /1 1 /202 4
 
 
