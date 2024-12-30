@@ -1,23 +1,22 @@
 
+# Python-based client-server system using UDP
+## CMPE 472 Computer Networks
 
-# CMPE 472 Computer Networks
+>Name: Mustafa Baran Ercan  
 
-Name: Mustafa Baran Ercan  
-Date of Submission: 26/11/2024
+>Date of Submission: 26/11/2024
 
 Table of Contents
 
-[CMPE 472_SEC 3 Computer Networks 1](#_Toc183553085)
+1\. Introduction 3
 
-[1\. Introduction 3](#_Toc183553086)
+2\. Explanation of algorithm 3
 
-[2\. Explanation of algorithm 3](#_Toc183553087)
+2.1. _Servermy_ _Class_ 3
 
-[2.1. _Servermy_ _Class_ 3](#_Toc183553088)
+2.2. _Clientmy_ _Class_ 4
 
-[2.2. _Clientmy_ _Class_ 4](#_Toc183553089)
-
-[3\. Conclusion 4](#_Toc183553090)
+3\. Conclusion 4
 
 ## Introduction
 
